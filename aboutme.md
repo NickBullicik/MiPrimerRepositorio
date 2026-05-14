@@ -9,5 +9,5 @@ Estudiando 2ºDAM en el IES San Vicente
 Me gusta mucho viajar y los videojuegos
 
 ----------------------------
-
+# Imagen Sprint
 ![IMG](/img/RetrospectivaSprint_Individual_NicolasMazzilli.png "Imagen Sprint")
