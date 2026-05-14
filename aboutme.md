@@ -10,4 +10,4 @@ Me gusta mucho viajar y los videojuegos
 
 ----------------------------
 
-![IMG](/img/RestropectivaSprint_Individual_NicolasMazzilli.png)
+![IMG](/img/RetrospectivaSprint_Individual_NicolasMazzilli.png "Imagen Sprint")
