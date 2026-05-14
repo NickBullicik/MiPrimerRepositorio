@@ -7,3 +7,7 @@ Estudiando 2ºDAM en el IES San Vicente
 
 # Hobbies
 Me gusta mucho viajar y los videojuegos
+
+----------------------------
+
+![IMG](/img/RestropectivaSprint_Individual_NicolasMazzilli.png)
